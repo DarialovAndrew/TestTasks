@@ -1,1 +1,1 @@
-This repository consists of the test tasks performed to get a position as an ML engineer 
+This repository hosts the solutions to the test tasks. It was done to get a position as an ML engineer 
